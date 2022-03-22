@@ -1,0 +1,5 @@
+Database name : management
+ERD: management_erd.png
+
+1. open management.sql using MySQL Workbench
+2. Execute the script
